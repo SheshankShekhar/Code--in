@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
+# -*- coding in python -*-
 """
 Created on Mon Feb 10 22:59:08 2020
 
-@author: ANAND BHUSHAN PANDEY
-"""
 
+"""
+# Import all the library
 
 import bs4 as bs
 import urllib.request
