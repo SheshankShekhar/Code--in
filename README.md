@@ -1,5 +1,5 @@
 # Code--
-# -*- coding: utf-8 -*-
+# -*- coding in python -*-
 
 #import all library
 
@@ -38,7 +38,7 @@ text = re.sub(r'\s+',' ',text)
 #print(text)
 
 
-#Cleaning text
+# Cleaning text
 #\d, \w and \s --- Shorthand character classes matching digits, word characters, 
 #and whitespace. Can be used inside and outside character classes.
 
